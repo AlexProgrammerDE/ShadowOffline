@@ -1,0 +1,5 @@
+name: ShadowOffline
+version: ${project.version}
+main: me.alexprogrammerde.shadowoffline.ShadowOffline
+description: Makes the proxy being showed as offline if the main is offline.
+author: AlexProgrammerDE
